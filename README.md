@@ -46,7 +46,7 @@ Professional Growth: Pursuing relevant certifications and participating in works
 
 <h3 align="left">Connect with me:</h3> </br>
 <p align="left">
-<a href="https://linkedin.com/in/prashant-pardeshi-88968523b" target="blank"><img alt="Linkedin Connect" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prashant-pardeshi-88968523b" target="Blank"><img src="images\link.png" alt="Linkedin Connect" height="30" width="40" />LinkedIn Connect</a>
 </br></br>
-<a href="https://github.com/Prashant6191" target="blank"> <img alt="Github Profile" height="30" width="40" /></a>
+<a href="https://github.com/Prashant6191" target="Blank"> <img src="images\git.png" alt="Github Profile" height="30" width="40" />Github Profile</a>
 </p>
