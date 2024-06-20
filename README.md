@@ -32,13 +32,13 @@ Professional Growth: Pursuing relevant certifications and participating in works
 ###
 <body>
     <h3>Languages and Tools:</h3>
-    <p align="left"> <img src="C:\Users\PRASHANT\Desktop\prashant\images\aws.png" alt="AWS" width="50" height="30" style="border: 2px solid black;">
-    <img src="C:\Users\PRASHANT\Desktop\prashant\images\azure.png" alt="AZURE" width="50" height="30" style="border: 2px solid black;">
-    <img src="C:\Users\PRASHANT\Desktop\prashant\images\google cloud.png" alt="Google" width="50" height="30" style="border: 2px solid black;">
-    <img src="C:\Users\PRASHANT\Desktop\prashant\images\databricks.png" alt="Databricks" width="50" height="30" style="border: 2px solid black;">
-    <img src="C:\Users\PRASHANT\Desktop\prashant\images\spark.png" alt="spark" width="50" height="30" style="border: 2px solid black;">
-    <img src="C:\Users\PRASHANT\Desktop\prashant\images\python.png" alt="Python" width="50" height="30" style="border: 2px solid black;">
-    <img src="C:\Users\PRASHANT\Desktop\prashant\images\mysql.png" alt="Mysql" width="50" height="30" style="border: 2px solid black;"></p>
+    <p align="left"> <img src="images\aws.png" alt="AWS" width="100" height="90" style="border: 2px solid black;">
+    <img src="images\azure.png" alt="AZURE" width="100" height="90" style="border: 2px solid black;">
+    <img src="images\google cloud.png" alt="Google" width="100" height="90" style="border: 2px solid black;">
+    <img src="images\databricks.png" alt="Databricks" width="100" height="90" style="border: 2px solid black;">
+    <img src="images\spark.png" alt="spark" width="100" height="90" style="border: 2px solid black;">
+    <img src="images\python.png" alt="Python" width="100" height="90" style="border: 2px solid black;">
+    <img src="images\mysql.png" alt="Mysql" width="100" height="90" style="border: 2px solid black;"></p>
 
 </body>
 
