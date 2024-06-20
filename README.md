@@ -37,7 +37,7 @@ Professional Growth: Pursuing relevant certifications and participating in works
     <img src="images\google cloud.png" alt="Google" width="100" height="90" style="border: 2px solid black;">
     <img src="images\databricks.png" alt="Databricks" width="100" height="90" style="border: 2px solid black;">
     <img src="images\spark.png" alt="spark" width="100" height="90" style="border: 2px solid black;">
-    <img src="images\python.png" alt="Python" width="100" height="90" style="border: 2px solid black;">
+    <img src="images\python.jpg" alt="Python" width="100" height="90" style="border: 2px solid black;">
     <img src="images\mysql.png" alt="Mysql" width="100" height="90" style="border: 2px solid black;"></p>
 
 </body>
