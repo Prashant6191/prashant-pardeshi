@@ -13,7 +13,7 @@ My expertise lies in transforming raw data into valuable insights, enabling data
 Technologies : Python, SQL  </br>
 Big Data Technologies: Apache Spark, Pyspark</br>
 Database Management: MySQL, SQL Server</br>
-Cloud Platforms: AWS, Azure</br>
+Cloud Platforms: AWS, Azure</br><?br>
 Tools: Git<br></br>🚀 What I Do:</br>
 Design and implement scalable data pipelines for efficient data processing.</br>
 Develop robust ETL processes to handle large volumes of data.</br>
@@ -30,8 +30,16 @@ Professional Growth: Pursuing relevant certifications and participating in works
 <h2 align="left">I code with</h2>
 
 ###
+<body>
+    <h3>Languages and Tools:</h3>
+    <p align="left"> <img src="C:\Users\PRASHANT\Desktop\prashant\images\aws.png" alt="AWS" width="50" height="30" style="border: 2px solid black;">
+    <img src="C:\Users\PRASHANT\Desktop\prashant\images\azure.png" alt="AZURE" width="50" height="30" style="border: 2px solid black;">
+    <img src="C:\Users\PRASHANT\Desktop\prashant\images\google cloud.png" alt="Google" width="50" height="30" style="border: 2px solid black;">
+    <img src="C:\Users\PRASHANT\Desktop\prashant\images\databricks.png" alt="Databricks" width="50" height="30" style="border: 2px solid black;">
+    <img src="C:\Users\PRASHANT\Desktop\prashant\images\spark.png" alt="spark" width="50" height="30" style="border: 2px solid black;">
+    <img src="C:\Users\PRASHANT\Desktop\prashant\images\python.png" alt="Python" width="50" height="30" style="border: 2px solid black;">
+    <img src="C:\Users\PRASHANT\Desktop\prashant\images\mysql.png" alt="Mysql" width="50" height="30" style="border: 2px solid black;"></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> </p>
+</body>
 
 ###
