@@ -9,6 +9,7 @@ My expertise lies in transforming raw data into valuable insights, enabling data
 ###
 
 <p align="left">
+
 💼 Professional Snapshot:</br>
 Technologies : Python, SQL  </br>
 Big Data Technologies: Apache Spark, Pyspark</br>
