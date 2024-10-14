@@ -4,7 +4,7 @@
 
 <h2 align="left">About me</h2>
 <h3 align="left">I'm a passionate Data Engineer experience in designing, developing, and maintaining data infrastructure and pipelines. Proficient in AWS and Azure cloud services, with extensive hands-on experience in ETL processes, Python, SQL, and Azure DevOps practices. Skilled in leveraging tools like Databricks, PySpark, and various AWS and Azure data services to deliver robust data solutions
-My expertise lies in transforming raw data into valuable insights, enabling data-driven decision-making, and continuously improving data processes.</h3>
+My expertise lies in transforming raw data into valuable insights, enabling data-driven decision-making, and continuously improving data processes..</h3>
 
 ###
 
